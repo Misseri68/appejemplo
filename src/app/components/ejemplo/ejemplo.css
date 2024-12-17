@@ -1,0 +1,28 @@
+
+h1 {
+  font-family: 'Space Mono', monospace; /* Fuente alien */
+  text-align: center;
+  margin-bottom: 30px;
+  color: #00ff99; /* Verde alien */
+}
+table {
+  background-color: #1e1e1e;
+  border: 1px solid #444;
+}
+th, td {
+  text-align: center;
+  padding: 10px;
+}
+th {
+  background-color: #333;
+  color: #00ff99;
+  text-transform: uppercase;
+}
+td img {
+  width: 100px;
+  height: auto;
+  border-radius: 8px;
+}
+tbody tr:hover {
+  background-color: #2a2a2a; /* Efecto de hover */
+}

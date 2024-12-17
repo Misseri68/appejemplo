@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  background-color: #121212; /* Fondo oscuro */
+  color: #def8f6; /* Texto blanco */
+  width:100%;
+}
